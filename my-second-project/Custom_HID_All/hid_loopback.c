@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <stint.h>
 #include <stdlib.h>
 #include <string.h>
 #include <fcntl.h>

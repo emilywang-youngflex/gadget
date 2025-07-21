@@ -1,2 +1,2 @@
-# gadget
-sidequest
+# for Luckfox pico / lyra 
+Buildroot system 
